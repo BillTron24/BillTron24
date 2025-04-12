@@ -22,8 +22,8 @@ I'm passionate about solving real-world problems with tech, building intelligent
 ---
 
 ## 📫 Reach Me At
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📩 Email: youremail@example.com
+- 🔗 [LinkedIn] https://www.linkedin.com/in/bill-tron
+- 📩 Email: blyngdohtron@gmail.com
 - 📓 [My Prompt Library & Tech Blog](#)
 
 ---
